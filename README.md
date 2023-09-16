@@ -1,7 +1,7 @@
 # React Note App
 ## _Build with React+Vite and Tailwind_
 
-Note app with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white), Toastify, and Local Storage
+Note app with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white), and Toastify
 
 ## Features
 
@@ -12,7 +12,7 @@ Note app with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=fo
 ## Statistic
 |Statistic Type|Amount|
 |:---:|:---:|
-|Development|![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ninoslat1/react-note-app)|
+|Development|![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ninoslat1/dicoding-note-app)|
 |Language|![GitHub top language](https://img.shields.io/github/languages/top/ninoslat1/react-note-app?color=yellow)|
 
 ## Tech
@@ -27,7 +27,3 @@ This app uses a number of open source projects to work properly:
 ## License
 
 MIT
-
-## References
-
-- [Chris Blakely](https://www.youtube.com/watch?v=8KB3DHI-QbM)
