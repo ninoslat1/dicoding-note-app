@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/react-note-app/dev-sw.js?dev-sw', { scope: '/react-note-app/', type: 'classic' })
