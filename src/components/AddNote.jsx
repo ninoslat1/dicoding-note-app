@@ -2,7 +2,7 @@ import React, { useRef, useState } from 'react'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-function AddNote({handleAddNote}) {
+const AddNote = ({handleAddNote}) => {
   const [noteWord, setNoteWord] = useState('')
   const [noteTitle, setNoteTitle] = useState('')
 
